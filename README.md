@@ -22,7 +22,8 @@ File: user_events.csv
 ## İş Akışı
 1.	Veri Hazırlama ve Yükleme
 2.	SQL ile Veri İşleme ve Modelleme
-3.	Raporlama ve Stratejik Karar Desteği
+3.	Görselleştirme (Tableau)
+4.	Raporlama ve Stratejik Karar Desteği
 ## BigQuery SQL Sorgu Çıktıları
 **1. Satış Hunisini ve Bu Huninin Farklı Aşamalarını Tanımlamak**
 
@@ -47,6 +48,13 @@ File: user_events.csv
 **5. Satış Sürecinin Her Aşamasında Oluşan Gelir Analizi**
 
 <img width="707" height="53" alt="Ekran Resmi 2026-02-23 08 29 13" src="https://github.com/user-attachments/assets/e4f2ad63-de9a-4083-bfc0-05335b9ae5d7" />
+
+
+## Dasboard
+https://public.tableau.com/app/profile/selin.serra.usta/viz/E-commerceConversionFunnelandMarketingChannelPerformanceAnalysis/Dashboard1
+
+<img width="1799" height="1049" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8e3ea02-863d-4dbd-911a-c1b8f3c561ab" />
+
 
 
 ## Önemli Bulgular
