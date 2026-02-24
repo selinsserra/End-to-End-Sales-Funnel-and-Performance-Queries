@@ -53,8 +53,7 @@ File: user_events.csv
 ## Dasboard
 https://public.tableau.com/app/profile/selin.serra.usta/viz/E-commerceConversionFunnelandMarketingChannelPerformanceAnalysis/Dashboard1
 
-<img width="1799" height="1049" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a8e3ea02-863d-4dbd-911a-c1b8f3c561ab" />
-
+<img width="1799" height="1049" alt="Dashboard 1" src="https://github.com/user-attachments/assets/713d2ccc-5706-4a92-bbe2-4b091c99d2c7" />
 
 
 ## Önemli Bulgular
